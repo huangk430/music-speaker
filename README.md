@@ -5,7 +5,7 @@ An embedded computer system using the ATMega32 microcontroller that is used as a
 
 ## Features
 
-- Change Song Options (1 | 2 | 3)
+- Change Song Options (1 - Mary Had A Little Lamb| 2 - Happy Birthday| 3 - Twinkle Twinkle Little Star)
 - Pause/Resume (A | B)
 
 
