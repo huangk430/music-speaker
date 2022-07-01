@@ -51,49 +51,6 @@ typedef struct {
 	Duration duration;
 } PlayingNote;
 
-PlayingNote daddy_ed[] = {
-	{Cs, Q},
-	/* Wait for half */
-	{Cs, Q},
-	{Cs, Q},
-	/* Wait for half */
-	{B, Q},
-	/* Wait for quarter */
-	{Cs, Q},
-	/* Keep going... */
-	{Gs, Q},
-	
-	{Fs, Q},
-	{Fs, Q},
-	{Fs, Q},
-	/* Wait for half */
-	{Gs, Q},
-	/* Wait for quarter */
-	{Fs, Q},
-	/* Keep going... */
-	{Ee, Q},
-		
-	{Cs, Q},
-	{Ee, Q},
-	/* Wait for half */
-	{Gs, Q},
-	/* Wait for quarter */
-	{Fs, Q},
-	/* Keep going... */
-	{Fs, Q},
-	//for someobody like me
-	{Cs, Q},
-	{Ee, Q},
-	/* Wait for half */
-	{Gs, Ei},
-	/* Wait for quarter */
-	{Fs, Ei},
-	/* Keep going... */
-	{Fs, Ei},
-	{Cs, Q},
-	
-
-};
 
 PlayingNote mary_lamb[] = {
 	{Ee, Q},
